@@ -33,10 +33,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Tools</th>
-  </tr>
   
   <!-- Programming Languages -->
   <tr>
@@ -99,13 +95,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="padding-right:10px; background-color:white;"/>
+        <img src="https://www.etatvasoft.com/public/images/express-main-logo-hexa.svg" alt="express" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="padding-right:10px; background-color:white;"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
     </td>
   </tr>
@@ -175,7 +171,7 @@
     <td>Other Tools</td>
     <td>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="padding-right:10px; background-color:white;"/>
+        <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" alt="bash" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="padding-right:10px; background-color:white;"/>
@@ -184,7 +180,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="padding-right:10px; background-color:white;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40" style="padding-right:10px; background-color:white;"/>
       </a>
     </td>
   </tr>
