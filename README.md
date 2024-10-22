@@ -3,7 +3,7 @@
 <h1 align="center">Hello Coders👋, I'm Snehashish Das</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=Profile%20views&color=0e75b6&style=flat" alt="snehashish-das" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=Profile%20views&color=0e75b6&style=flat" alt="snehashish-das" /><br> </p>
 
 <img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
