@@ -189,7 +189,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehashish-das&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehashish-das&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehashish-das&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
 
