@@ -191,7 +191,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehashish-das&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehashish-das&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snehashish-das&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=2f81f7" alt="snehashish-das" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehashish-das&background=0d1117&stroke=58a6ff&ring=2f81f7&fire=2f81f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="snehashish-das" /></p>
 
