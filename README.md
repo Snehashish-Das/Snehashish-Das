@@ -20,7 +20,7 @@
 
 
 <img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-<br>
+
 
 - 🔭 I’m currently working on **AI Image Enhancer**
 
@@ -31,7 +31,7 @@
 - 📫 How to reach me: **dassnehashish7@gmail.com**
 
 - ⚡ Fun fact: **I study MCA at University of Calcutta**
-
+<br>
 
 <br>
 <h3 align="left">Connect with me:</h3>
