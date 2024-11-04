@@ -1,7 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](www.instagram.com/snehashish_is_steel/)
 
-<h1 align="center">Hello Coders👋, I'm Snehashish Das</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hello Coders<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Snehashish Das</h1>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=1cebf5&center=true&vCenter=true&width=600&height=30&lines=A+passionate+web+developer+from+India;An+MCA+student+at+University+of+Calcutta;A+Machine+Learning+enthusiast" alt="Typing Animation">
+</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehashish-das&label=Profile%20views&color=0e75b6&style=flat" alt="snehashish-das" /><br> </p>
 
@@ -30,7 +38,7 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3> 
 
 <table>
   
