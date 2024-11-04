@@ -217,3 +217,14 @@
   </a>
 </p>
 
+<br>
+
+<p align="center" style="font-size:40px>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture>
+  <b>Thank You</b> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture></p>
